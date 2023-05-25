@@ -183,6 +183,7 @@ const struct CmdExec::cmd_rec CmdExec::static_cmd_table[]=
 	    " -k, --kilobytes      - like --block-size=1024\n"
 	    " -l, --long           - use a long listing format\n"
 	    " -q, --quiet          - don't show status\n"
+	    " -r, --reverse        - sort in reverse order\n"
 	    " -s, --size           - print size of each file\n"
 	    "     --filesize       - if printing size, only print size for files\n"
 	    " -i, --nocase         - case-insensitive pattern matching\n"
